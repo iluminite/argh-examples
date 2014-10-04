@@ -1,0 +1,11 @@
+# Ignore dev files
+.vagrant/*
+Vagrantfile
+*.egg*
+*.tar.gz
+build*
+dist/*
+*.swp
+*.swo
+*.pyc
+~*
